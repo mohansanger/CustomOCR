@@ -11,7 +11,7 @@ load_dotenv()
 
 
 endpoint = "https://devlpoment.cognitiveservices.azure.com/"
-key = "51ncnG30FnzJIceBUHyF6rDM9MPJDmUy04tS4iEbxCLLIkQzTgiRJQQJ99ALACYeBjFXJ3w3AAALACOG4h7r"
+key = ""
 #endpoint=os.getenv('AzureEndPoint')
 path=r"E:\AzureOCRCustomCode\Samples\1.pdf"
 
