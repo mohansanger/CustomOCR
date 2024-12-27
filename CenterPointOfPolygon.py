@@ -3,7 +3,7 @@ from azure.core.credentials import AzureKeyCredential
 from azure.ai.formrecognizer import DocumentAnalysisClient
 
 endpoint = "https://devlpoment.cognitiveservices.azure.com/"
-key = "51ncnG30FnzJIceBUHyF6rDM9MPJDmUy04tS4iEbxCLLIkQzTgiRJQQJ99ALACYeBjFXJ3w3AAALACOG4h7r"
+key = key
 path=r"E:\AzureOCRCustomCode\Samples\2.pdf"
 polygon = [1.5231, 4.2749, 2.2847, 4.2749, 2.2847, 4.4671, 1.5231,4.4671]
 polygon=[round(num,1) for num in polygon]
